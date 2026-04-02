@@ -1,10 +1,10 @@
-# NARUTO
-Simple hand tracking with Naruto/Sasuke powers.
+#Hand Gesture 
+Simple hand tracking with powers.
 
 ### How to use:
 - Open `index.html` in your browser.### Controls:
-- **Right Hand Open:** Shows Naruto power.
-- **Left Hand Open:** Shows Sasuke power.
+- **Right Hand Open:** Shows one power.
+- **Left Hand Open:** Shows second power.
 - **Blue Lines:** Shows the hand tracking so you know it's working
 
 ### Note:
